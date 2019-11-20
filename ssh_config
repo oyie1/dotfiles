@@ -1,0 +1,10 @@
+Host github.com
+	User oyie1
+	Hostname github.com
+	PubKeyAuthentication yes
+	IdentityFile ~/.ssh/id_rsa.pub
+
+Host oyie
+	HostName login.engin.umich.edu
+	User oyie
+	Compression yes
